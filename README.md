@@ -4,9 +4,13 @@ This script provides a simulation of different cost senarios bases on a fix cost
 
 The script creates a consumption senario (or in the specific case an income senario) based on the user experience. 
 
+The script name is derived by point of sale (POS), aka the payment terminal (and, in wider sense) the ecosystems. 
+
 # 1.1 Example 
-Let's concider a resturant that provides aslo bar services. 
-This script allows to simultae differenc income senarios: 
+Let's concider a restaurant that provides also bar services. And try to find the most economic POS (the one with lowest percentage of cost for the restaurant tender).
+
+This script allows to simulate differenc income senarios: 
+
 - the bar: small and frequent amounts 
 - the restaurant: bigger than the bar but less frequent ammounts
 

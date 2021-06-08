@@ -1,5 +1,5 @@
 pos_all = [
-    {'name': 'mypos_eu',   # /it/acquisto-pos-mobile/mypos-go
+    {'name': 'mypos_eu',
      'inital': 19,
      'percent': 1.2,  # %
      'fix': .5,  # €
@@ -27,7 +27,7 @@ pos_all = [
      'phone':  True,
      'ticket': False
      },
-    {'name': 'Sim D220 Mini Ice',
+    {'name': 'D220',
      'inital': 29,
      'percent': .8,  # %
      'fix': 0,  # €
