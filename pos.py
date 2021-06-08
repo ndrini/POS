@@ -92,7 +92,7 @@ if __name__ == '__main__':
     ''' provide a list of expected value 
     of payment, to inialize the model 
     mean, standard deviation and total payment actions
-    '''    
+    '''
     c = Comparation(
         expense_mean=[4.5, 35],  # list
         expense_sd=[3, 15],
